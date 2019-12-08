@@ -13,10 +13,10 @@ ter sua variável "Diretorio" definida com o caminho do arquivo que deseja testa
 
 Trabalho não apresenta falhas para representar AFNs e AFDs caso siga as orientações corretamente:
 
-1- Arquivo de entrada exatamente com a formatação explicada abaixo;
-2- Palavra digitada nunca maior que o "Max_Tam_Palavra" descrito no arquivo de entrada;
-3- Não digite palavras vazias na hora de entrar com a palavra
-4- Não tente entrar com mais de um entrado inicial no arquivo
+1. Arquivo de entrada exatamente com a formatação explicada abaixo;
+2. Palavra digitada nunca maior que o "Max_Tam_Palavra" descrito no arquivo de entrada;
+3. Não digite palavras vazias na hora de entrar com a palavra
+4. Não tente entrar com mais de um entrada inicial no arquivo
 
 ----------------------------------------------------------------------------------------------------
 ## Modelagem do problema:
